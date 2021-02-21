@@ -2,7 +2,7 @@ import firebase from "firebase";
 
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "",
+  apiKey: "AIzaSyDR-bnJu-SGeU1EhGol57saRuKWFpyEIkA",
   authDomain: "redux-slack2.firebaseapp.com",
   projectId: "redux-slack2",
   storageBucket: "redux-slack2.appspot.com",
